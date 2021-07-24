@@ -1,4 +1,4 @@
 mysql:
-  user: sails
+  user: sails__
 person:
-  name: qianfan
+  name: qianfan__
